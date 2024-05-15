@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        //comentario 2 para stage
         public int CategoryId { get; set; }
 
         [Required]
